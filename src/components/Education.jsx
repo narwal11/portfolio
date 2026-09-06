@@ -4,7 +4,7 @@ import SectionHeading from './SectionHeading'
 const education = [
   {
     institution: 'Stevens Institute of Technology',
-    detail: 'B.S. Computer Science, Expected 2028',
+    detail: 'B.S. Computer Science, Minor in Quantitative Finance, Expected 2029',
   },
   {
     institution: 'Monroe Township High School',

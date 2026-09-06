@@ -12,9 +12,7 @@ export default function Background() {
         <FadeIn delay={75}>
           <div className="rounded-lg border border-border bg-surface p-6 md:p-8">
             <p className="text-base leading-relaxed text-muted md:text-lg">
-              I have worked in warehouse and supply chain operations, customer
-              service, and food service. That experience grounds my perspective
-              on technology and people.
+            In my free time, I like to play soccer, climb mountains and hike, and play story mode games. I also learned how to cook after preparing meals from high school through college. At Stevens, I am part of the CS Club and the South Asian Student Association and spend a lot of time doing recreational activities with my friend, such as playing pickup basketball, pool, or walking around the city.
             </p>
           </div>
         </FadeIn>

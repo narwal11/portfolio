@@ -4,15 +4,15 @@ import SectionHeading from './SectionHeading'
 const skillGroups = [
   {
     title: 'Languages',
-    items: ['Java', 'Python', 'C++', 'Scheme', 'Visual Basic'],
+    items: ['Java', 'Python', 'C++', 'Scheme', 'Visual Basic', 'R'],
   },
   {
     title: 'Tools',
-    items: ['React', 'Git', 'GitHub', 'AWS', 'Tailwind CSS'],
+    items: ['React', 'Git', 'GitHub', 'AWS', 'Tailwind CSS', 'Node.js'],
   },
   {
     title: 'Learning',
-    items: ['Machine Learning', 'AI development'],
+    items: ['Machine Learning', 'AI development', 'Front-end and Back-end development'],
   },
 ]
 

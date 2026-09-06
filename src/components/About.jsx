@@ -14,7 +14,7 @@ export default function About() {
             <p className="text-base leading-relaxed text-muted md:text-lg">
               CS student at Stevens Institute of Technology. Skilled in Java,
               Python, C++, Scheme, and Visual Basic. Passionate about AI,
-              emerging technology, and building software that matters.
+              emerging technology, and building software.
             </p>
           </div>
         </FadeIn>
