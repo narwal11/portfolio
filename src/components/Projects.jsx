@@ -11,7 +11,6 @@ const projects = [
     tech: ['React', 'Vite', 'Tailwind CSS', 'Supabase (Postgres)'],
     image: '/kanban-screenshot.png',
     imageAlt: 'Kanban Task Board showing columns of color-coded task cards',
-    // TODO: replace with the deployed Kanban URL
     liveUrl: 'https://simplekanbanboard.vercel.app/',
     codeUrl: 'https://github.com/narwal11/kanban-app',
   },
@@ -35,8 +34,8 @@ export default function Projects() {
                   loading="lazy"
                   className="mb-6 w-full rounded border border-border"
                 />
-                <h3 className="mb-3 text-base font-bold text-text">{project.title}</h3>
-                <p className="mb-3 text-base text-text md:text-lg">{project.summary}</p>
+                <h3 className="mb-3 text-lg font-bold text-text md:text-xl">{project.title}</h3>
+                <p className="mb-3 text-text">{project.summary}</p>
                 <p className="mb-4 leading-relaxed text-muted">{project.detail}</p>
                 <p className="mb-6 text-sm text-muted">{project.tech.join(', ')}</p>
                 <div className="flex flex-col gap-3 sm:flex-row sm:gap-4">
